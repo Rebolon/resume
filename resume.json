@@ -1,0 +1,498 @@
+{
+	"createdAt" : "2017-01-11T13:37:00.366Z",
+	"modifiedAt" : "2017-01-11T13:37:00.366Z",
+	"linkedin" : "https://fr.linkedin.com/in/benrichard",
+	"basics" : {
+		"name" : "Modifier le nomBenjamin Richard",
+		"label" : "Manager Technique - Concepteur d'applications web",
+		"picture" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeGAAAAJDU2YzI1YzQ1LTcyOGEtNDA3ZS05N2Q0LTY2OGE5MWYzNzFjMQ.jpg",
+		"summary" : "Cliquer pour modifier le résuméVous êtes une startup ? Je peux vous accompagner sur le démarrage de vos projets, mais également lors du développement de module complexe.\nVous êtes déjà installé depuis quelques années ? Nous pouvons travailler ensemble sur des projets d'avenir et sur des temps de développements raccourcis. Je peux vous aider à prototyper rapidement...",
+		"profiles" : [{
+				"network" : "linkedin",
+				"username" : "Modifier le nomBenjamin Richard",
+				"url" : "https://fr.linkedin.com/in/benrichard"
+			}
+		]
+	},
+	"work" : [{
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteManager technique / Concepteur d'applications web",
+			"company" : "Cliquez pour modifier le nom de l’entreprisePEAKS IT",
+			"logo" : null,
+			"startDate" : "mars 2011",
+			"endDate" : "current",
+			"location" : "Lyon",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">Secteur Media, Euronews - Lead developer (8 mois)\n\n&#x2022; Lead technique et d&#xE9;veloppement des site http://africanews.com (2 mois, 5 personnes, 2 langues) et http://euronews.com sous PHP, Symfony 2.8 et VueJS / Browserify pour le javascript (4 mois, 8 personnes, multilingue 13 langues)\n\n\n\nStartup, grand public - Expert technique\n\n&#x2022; D&#xE9;veloppement d&apos;une application mobile et desktop sur la plateforme MeteorJS\n\n\n\nStartup, secteur btp - Expert technique\n\n&#x2022; Migration de la plateforme applicative existante sous Symfony\n\n&#x2022; Web service REST, passerelle entre la plateforme existante et la future architecture\n\n&#x2022; Mise en place de la s&#xE9;curisation des web-services avec les Json Web Token\n\n&#x2022; Int&#xE9;gration continue et d&#xE9;ploiement continue : mise en place des processus avec l&apos;administrateur syst&#xE8;me (gitlab, gitlab-ci)\n\n&#x2022; Mise en place de Proof of Concepts avec MeteorJS (dashboard temps r&#xE9;el, IHM pour le projet open-source SATIS)\n\n\n\nStartup, secteur automobile - d&#xE9;veloppeur PHP Symfony2 (2 mois)\n\n&#x2022; soutien de l&apos;&#xE9;quipe en place, architecture micro-service, Symfony\n\n\n\nSecteur Publique, R&#xE9;seau Ferr&#xE9; de France - developpeur PHP Drupal (2 mois) \n\n&#x2022; refonte du site rff.fr\n\n\n\nSecteur Media, Euronews - Lead developer (depuis mars 2014)\n\n&#x2022; Modification des applications web PHP en vue du d&#xE9;m&#xE9;nagement\n\n\n\nSecteur Media, M6Web - Lead developer (2 ans)\n\n&#x2022; D&#xE9;velopper des services PHP autour des r&#xE9;seaux sociaux\n\n&#x2022; Concevoir des solutions de tests fonctionnels (casperJS)\n\n&#x2022; Integration de briques applicatives &#xE0; partir de services tiers\n\n&#x2022; Stabilisation du player HTML5 (bas&#xE9; sur videojs) et ajout de fonctionnalit&#xE9;\n\n\n\nSecteur Marketing, Infolegale - Chef de projet technique (1 an)\n\n&#x2022; Conception des produits web-services\n\n&#x2022; Industrialisation des d&#xE9;veloppements PHP (tests unitaires et fonctionnels, int&#xE9;gration continue)\n\n\n\nEnvironnements techniques : PHP 5 (Zend framework, Symfony2, PhpUnit, Atoum, Behat), Javascript (MeteorJS, NodeJS, Browserify, VueJS, Angular 2, KendoUI), Mysql, MongoDB, Xml/Xsd, Moteur de recherche Sphinx, Linux</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "International news | euronews, latest international news"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "Latest breaking news, daily news and African news from Africa | Africanews"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "Manager technique / Concepteur d&apos;applications web"
+		}, {
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteConsultant",
+			"company" : "Cliquez pour modifier le nom de l’entrepriseastek",
+			"logo" : null,
+			"startDate" : "mars 2006",
+			"endDate" : "janvier 2011",
+			"location" : "Région de Lyon, France",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">Secteur Telecom, TMA/forfait (6 mois)\n\n&#x2022; Application de gestion de commande et relation fournisseur\n\nEnvironnement technique : Linux (RedHat), Java 6, scripts Ksh, Oracle, PLSQL\n\n\n\nSecteur Public (18 mois)\n\n&#x2022; Projet d&apos;archivage &#xE9;lectronique de document\n\nEnvironnement technique : Linux (RedHat), Java 6, PHP5, C# (fwk 1.1), C#, Postgresql, SOAP, WSDL\n\n\n\nSecteur Telecom (3 ans)\n\n&#x2022; Conception d&#x2019;un serveur media (Content Repository Server) en mode redond&#xE9;\n\n&#x2022; D&#xE9;veloppement d&#x2019;applications web (configuration de serveurs t&#xE9;l&#xE9;coms, web services)\n\n&#x2022; Industrialisation (tests fonctionnels des web services, mutualisation de code)\n\nEnvironnement technique : Linux (Centos), PHP5 (Zend Framework), javascript, Postgresql, SOAP, WSDL</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "Consultant"
+		}, {
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteIngénieur d'études",
+			"company" : "Cliquez pour modifier le nom de l’entrepriseAston (SQLI)",
+			"logo" : null,
+			"startDate" : "avril 2004",
+			"endDate" : "mars 2006",
+			"location" : "Région de Lyon, France",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">Secteur BTP et Public (1,5 ans)\n\n&#x2022; D&#xE9;veloppement de portail avec Oracle Portal 9iAS\n\n&#x2022; Mise en place d&apos;outils collaboratifs (Oracle Collaboration Suite)\n\n\n\nSecteur Public (6 mois)\n\n&#x2022; D&#xE9;veloppement de portails avec PHP et MySQL sous le framework Copix\n\n\n\nEnvironnement technique : Oracle Application Server (9IAS et 10g), Oracle Collaboration Suite, MySQL, PHP5, xml, xHtml, plsql</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "Ing&#xE9;nieur d&apos;&#xE9;tudes"
+		}, {
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteDéveloppeur web",
+			"company" : "Cliquez pour modifier le nom de l’entrepriseZaw studio",
+			"logo" : null,
+			"startDate" : "septembre 2003",
+			"endDate" : "décembre 2003",
+			"location" : "Région de Lyon, France",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">&#x2022; D&#xE9;veloppement d&apos;un portail et de sites dynamiques (Les 3 vall&#xE9;es, plateforme de traduction, ...)\n\n\n\nEnvironnement technique : Linux, PHP4, MySQL</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "D&#xE9;veloppeur web"
+		}, {
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteDéveloppeur web",
+			"company" : "Cliquez pour modifier le nom de l’entrepriseIntradot Labs",
+			"logo" : null,
+			"startDate" : "mars 2003",
+			"endDate" : "juillet 2003",
+			"location" : "Région de Lyon, France",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">&#x2022; D&#xE9;veloppement de librairie PHP (mail, cryptographie sous GPG) et d&apos;applications web\n\n\n\nEnvironnement technique : Linux, PHP4, PostgreSQL</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "D&#xE9;veloppeur web"
+		}, {
+			"position" : "Cliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le titre du posteRéalisateur multimédia",
+			"company" : "Cliquez pour modifier le nom de l’entrepriseZonejeux.com",
+			"logo" : null,
+			"startDate" : "février 2000",
+			"endDate" : "janvier 2002",
+			"location" : "Région de Villeurbanne, France",
+			"summary" : "<button class=\"edit-field edit-field-button\"><span class=\"ally-text\">Cliquez pour modifier la description du poste</span><i class=\"edit-field-icon\"></i></button><span class=\"field-text\" dir=\"ltr\">&#x2022; D&#xE9;veloppement web sur la plateforme de jeu en ligne ZonejeuX.com\n\n&#x2022; R&#xE9;alisation d&#x2019;applications Flash\n\n\n\nEnvironnement technique : ColdFusion, Html, Flash 5</span>"
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : null
+		}, {
+			"position" : "",
+			"company" : "",
+			"logo" : null,
+			"startDate" : "",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "R&#xE9;alisateur multim&#xE9;dia"
+		}
+	],
+	"volunteer" : [{
+			"organization" : "",
+			"position" : "",
+			"startDate" : "novembre 2014",
+			"endDate" : "current",
+			"highlights" : ["Sciences et technologie"],
+			"summary" : "Modifier la description du volontariatMeteorJS est jeune, mais surtout cette techno est encore assez méconnue en France. Du coup depuis la sortie de la V1 en 2014 j'ai décidé de partager mes connaissances avec les Lyonnais.\nOn parle de problématiques d'ergonomie lié au temps réel, de déploiement, de développement mobile. Mais toujours sur MeteorJS.\n\nRejoignez-nous ici :..."
+		}
+	],
+	"publications" : [{
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publication2 novembre 2016",
+			"summary" : "Cliquez pour modifier la description de la publicationLightning talk pour décomplexer les développeurs sur la modernisation de leur application web traditionnelles avec des frameworks JS modernes. VueJS est pris comme exemple notamment car nous l'avons utilisé sur un projet de nos clients.\nLa vidéo est disponible ici https://youtu.be/3-pt-7U2pNg?list=PLXOSxCLWFrNG5ZU0yb1g-KNH1AaqvmaSs",
+			"contributors" : []
+		}, {
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publication28 octobre 2015",
+			"summary" : "Cliquez pour modifier la description de la publicationPrésentation de la plateforme MeteorJs expliquant en quoi elle permet d'accélérer le développement web.\nLa vidéo est disponible ici : https://www.youtube.com/watch?v=6f7d_6VgiEM",
+			"contributors" : []
+		}, {
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publication11 février 2014",
+			"summary" : "Cliquez pour modifier la description de la publicationAprès la présentation de Meteor, voici une conférence plus technique qui a été présenté au LyonJs.\n\nPour accompagner la présentation j'ai réalisé une application de vote en temps réel. L'application est hébergée sur les serveurs de meteor 'http://lyonjs.meteor.com) et le code source est disponible sur github...",
+			"contributors" : []
+		}, {
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publicationjuin 2013",
+			"summary" : "Cliquez pour modifier la description de la publicationL'avenir du web passera par MeteorJS (en tout cas, par NodeJs)",
+			"contributors" : []
+		}, {
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publicationmars 2013",
+			"summary" : "Cliquez pour modifier la description de la publicationIntroduction à Symfony, et présentation de quelques composants méconnus, mais si utiles",
+			"contributors" : []
+		}, {
+			"name" : "",
+			"publisher" : "",
+			"releaseDate" : "Cliquez pour modifier la date de publication21 janvier 2013",
+			"summary" : "Cliquez pour modifier la description de la publicationQue sont les test fonctionnels ? \nComment javascript va vous venir en aide.",
+			"contributors" : []
+		}
+	],
+	"projects" : [{
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetoctobre 2014"
+			},
+			"description" : "Cliquez pour modifier la description du projetGroupe Lyonnais dédié à la plateforme MeteorJS.\nDémarrage le 6 novembre pour le WorldWide Meteor Day : près de 140 villes dans le monde organisant un Meetup Meteor, le même jour, pour la sortie de la release 1.0 de la plateforme.\n\nDepuis, j'organise régulièrement les meetups MeteorJS sur Lyon : http://meetup.com/Meteor-Lyon\nDepuis le...",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetfévrier 2013"
+			},
+			"description" : "Cliquez pour modifier la description du projetRefonte des forums des portails thématiques d'M6Web. L'objectif est d'apporter de l'innovation à un applicatif vieillissant dans ses concepts mais également sa réalisation.",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetdécembre 2012"
+			},
+			"description" : "Cliquez pour modifier la description du projetExternalisation de certains services et intégration de solutions externes au travers de briques ré-utilisables.\nPartenaires : realtidbits.com, livefyre.com\n\nTechnologies : PHP5.4, Javascript, Symfony2, Git",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetavril 2012 – février 2013"
+			},
+			"description" : "Cliquez pour modifier la description du projetStandardiser l'utilisation des réseaux sociaux, faciliter la maintenance des applications basées sur ces services, développer des briques facilement ré-utilisables.\n\nTechnologies : PHP5.4, Composer, Javascript",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetseptembre 2012 – novembre 2012"
+			},
+			"description" : "Cliquez pour modifier la description du projetMise en place de tests fonctionnels sur les différents sites.\nL'outils est basé sur CasperJS et permet de développer de nouveau module de tests rapidement et de manière structuré par site.\n\nTechnologies :  Javascript (CasperJS, PhantomJS)",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetmars 2011 – mars 2012"
+			},
+			"description" : "Cliquez pour modifier la description du projetConception d'un nouveau produit pour Infolegale : les web services. L'objectif est de standardiser les données vendues aux clients. Il faut leur permettre d'automatiser la récupération des données d'Infolegale et de les intégrer au mieux dans leur SI.\nL'un des objectifs annexes a été de concevoir une factory de web-services afin de mettre...",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetjanvier 2014 – février 2014"
+			},
+			"description" : "Cliquez pour modifier la description du projetStabilisation du player HTML5 des sites M6. Utilisé comme fallback du player Flash, ce projet a également permis de rajouter des fonctionnalités pour se rapprocher au plus près des fonctionnalités du player flash (Estat, Graphite, Carroussel, boutons Sociaux...).\n\nTechnologies : PHP 5.4 (Symfony2, Atoum), Javascript (VideoJS, Grunt)",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetoctobre 2015 – décembre 2015"
+			},
+			"description" : "Cliquez pour modifier la description du projetAfricanews est une chaîne de télévision d'information multilingue panafricaine qui vient d'être lancée, filiale d'Euronews.",
+			"contributors" : []
+		}, {
+			"title" : "",
+			"date-range" : {
+				"start" : "Cliquez pour modifier la date du projetavril 2016"
+			},
+			"description" : "Cliquez pour modifier la description du projetRefonte complète du site média Euronews. Routing avec 13 langues, API, stack PHP Symfony2, stack JS VueJS/Browserify",
+			"contributors" : []
+		}
+	],
+	"languages" : [{
+			"language" : "Cliquez pour modifier la langueFrançaisRéorganiser",
+			"fluency" : "Cliquez pour modifier le niveau de langueBilingue ou langue natale"
+		}, {
+			"language" : "Cliquez pour modifier la langueAnglaisRéorganiser",
+			"fluency" : "Cliquez pour modifier le niveau de langueCapacité professionnelle complète"
+		}
+	],
+	"skills" : [{
+			"name" : "PHP",
+			"level" : "30"
+		}, {
+			"name" : "JavaScript",
+			"level" : "24"
+		}, {
+			"name" : "MySQL",
+			"level" : "11"
+		}, {
+			"name" : "jQuery",
+			"level" : "10"
+		}, {
+			"name" : "MeteorJs",
+			"level" : "8"
+		}, {
+			"name" : "Node.js",
+			"level" : "8"
+		}, {
+			"name" : "Programmation web",
+			"level" : "7"
+		}, {
+			"name" : "PostgreSQL",
+			"level" : "6"
+		}, {
+			"name" : "Symfony",
+			"level" : "6"
+		}, {
+			"name" : "Zend Framework",
+			"level" : "5"
+		}, {
+			"name" : "XML",
+			"level" : "5"
+		}, {
+			"name" : "Java",
+			"level" : "4"
+		}, {
+			"name" : "CSS",
+			"level" : "4"
+		}, {
+			"name" : "SOAP",
+			"level" : "3"
+		}, {
+			"name" : "Representational State Transfer",
+			"level" : "3"
+		}, {
+			"name" : "REST",
+			"level" : "3"
+		}, {
+			"name" : "PHPUnit",
+			"level" : "2"
+		}, {
+			"name" : "Web Development",
+			"level" : "2"
+		}, {
+			"name" : "C#",
+			"level" : "1"
+		}, {
+			"name" : "Oracle",
+			"level" : "1"
+		}, {
+			"name" : "Java Enterprise Edition",
+			"level" : "1"
+		}, {
+			"name" : "MongoDB",
+			"level" : "1"
+		}, {
+			"name" : "Ext JS",
+			"level" : "1"
+		}, {
+			"name" : "ecmascript 6",
+			"level" : "0"
+		}, {
+			"name" : "Angular 2",
+			"level" : "0"
+		}, {
+			"name" : "Mootools",
+			"level" : "0"
+		}, {
+			"name" : "ExtJS",
+			"level" : "0"
+		}, {
+			"name" : "Oracle Portal",
+			"level" : "0"
+		}, {
+			"name" : "Oracle Collaboration Suite",
+			"level" : "0"
+		}, {
+			"name" : "XML Schema",
+			"level" : "0"
+		}, {
+			"name" : "vuejs",
+			"level" : "0"
+		}, {
+			"name" : "browserify",
+			"level" : "0"
+		}
+	],
+	"education" : [{
+			"institution" : "RéorganiserCliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le nom de l’écoleMediaRoanne",
+			"studyType" : "Cliquez pour modifier le diplôme, suivi du champ d’études et des résultatsEuromaster TIC, Computer Science",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : ""
+		}, {
+			"institution" : "RéorganiserCliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le nom de l’écoleUniversité de Metz",
+			"studyType" : "Cliquez pour modifier le diplôme, suivi du champ d’études et des résultatsDESS, Multimedia",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : ""
+		}, {
+			"institution" : "RéorganiserCliquer pour ajouter une vidéo, une image, un document, une présentation…Cliquez pour modifier le nom de l’écoleIAE FRANCE - Écoles Universitaires de Management",
+			"studyType" : "Cliquez pour modifier le diplôme, suivi du champ d’études et des résultatsMaîtrise, Management and Marketing",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : null
+		}, {
+			"institution" : "",
+			"studyType" : "",
+			"startDate" : "",
+			"endDate" : "current",
+			"summary" : ""
+		}
+	],
+	"owner" : "Rec26butRh5MXH3eP",
+	"createdAd" : "2017-01-11T13:37:00.493Z",
+	"_id" : "9WspGz7SJA9cvbu29"
+}
