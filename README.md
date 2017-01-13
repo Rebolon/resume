@@ -10,4 +10,4 @@ can manage your relation with the candidate, and also with your collaborators.
 * [kendall theme](https://rebolon.github.io/resume/kendall.html)
 * [markdown to github.io](https://rebolon.github.io/resume)
 * [original markdown](https://rebolon.github.io/resume/resume.md)
-* [json](https://rebolon.github.io/resume/resume.json)
+* [json](https://rebolon.github.io/resume/resume.json) best view with one of this chrome tool [chrome extension](https://chrome.google.com/webstore/search/jsonview)
