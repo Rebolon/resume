@@ -1,12 +1,12 @@
 {
-	createdAt : "2017-01-11T13:37:00.366Z",
-	modifiedAt : "2017-07-19T06:37:00.366Z",
-	linkedin : "https://fr.linkedin.com/in/benrichard",
-	basics : {
-		name : "Benjamin Richard",
-		label : "Manager Technique - Concepteur d'applications web - Full Stack: Symfony 2+, VueJS, Angular 2+, NodeJS, Meteor, API REST",
-		picture : "https://media.licdn.com/media/AAEAAQAAAAAAAAeGAAAAJDU2YzI1YzQ1LTcyOGEtNDA3ZS05N2Q0LTY2OGE5MWYzNzFjMQ.jpg",
-		summary : "Vous êtes une startup ? Je peux vous accompagner sur le démarrage de vos projets web (php, javascript, conception objet...), mais également lors du développement de module complexe.\\n
+	"createdAt" : "2017-01-11T13:37:00.366Z",
+	"modifiedAt" : "2017-07-19T06:37:00.366Z",
+	"linkedin" : "https://fr.linkedin.com/in/benrichard",
+	"basics" : {
+		"name" : "Benjamin Richard",
+		"label" : "Manager Technique - Concepteur d'applications web - Full Stack: Symfony 2+, VueJS, Angular 2+, NodeJS, Meteor, API REST",
+		"picture" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeGAAAAJDU2YzI1YzQ1LTcyOGEtNDA3ZS05N2Q0LTY2OGE5MWYzNzFjMQ.jpg",
+		"summary" : "Vous êtes une startup ? Je peux vous accompagner sur le démarrage de vos projets web (php, javascript, conception objet...), mais également lors du développement de module complexe.\\n
 Vous n'êtes pas une startup mais vous souhaitez moderniser votre SI ? Nous pouvons travailler ensemble sur des projets d'avenir et sur des temps de développements raccourcis. Je peux vous aider à prototyper rapidement vos besoins, faire évoluer vos applications existantes, ou encore former vos équipes.\\n
 \\n
 Plus de 15 ans d'expériences en conception et développement d'applications web. Depuis le développement de sites web puis de portail, j'ai pu participer activement à des solutions innovantes dans le domaine des télécoms et celui des médias. \\n
@@ -16,31 +16,31 @@ Contactez-moi pour que l'on discute ensemble de vos besoins.\\n
 \\n
 Spécialités : PHP5, MeteorJS / Meteor, NodeJS, Mysql, Postgresql, PLSQL, SQLite, Oracle IAS and Oracle Collaboration Suite, Javascript, PhantomJS, CSS, various frameworks (Copix, Symfony, Symfony2, and Zend Framework for PHP, Mootools, Jquery, VueJS, Angular and Angular2+ and ExtJs for Javascript), Apache and nginx web server
 Autres compétences : Java, C#,...\\n",
-		profiles : [{
-				network : "linkedin",
-				username : "Benjamin Richard",
-				url : "https://fr.linkedin.com/in/benrichard"
+		"profiles" : [{
+				"network" : "linkedin",
+				"username" : "Benjamin Richard",
+				"url" : "https://fr.linkedin.com/in/benrichard"
 			}
 		]
 	},
-	work : [{
-			position : "Manager technique",
-			company : "PEAKS IT",
-			logo : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
-			startDate : "avril 2014",
-			endDate : "current",
-			location : "Lyon",
-			summary : "• Mise en place de test de recrutement pour nos candidats front-end (Javascript / PHP)\\n
+	"work" : [{
+			"position" : "Manager technique",
+			"company" : "PEAKS IT",
+			"logo" : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
+			"startDate" : "avril 2014",
+			"endDate" : "current",
+			"location" : "Lyon",
+			"summary" : "• Mise en place de test de recrutement pour nos candidats front-end (Javascript / PHP)\\n
 • Entretien des candidats front-end et back-end (Javascript / PHP)\\n
 • Réponse à appel d'offres\\n"
 		}, {
-			position : "Lead développeur / Concepteur d'applications web",
-			company : "PEAKS IT",
-			logo : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
-			startDate : "avril 2012",
-			endDate : "current",
-			location : "",
-			summary : "Secteur Media, Euronews - Lead developer (16 mois)\\n
+			"position" : "Lead développeur / Concepteur d'applications web",
+			"company" : "PEAKS IT",
+			"logo" : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
+			"startDate" : "avril 2012",
+			"endDate" : "current",
+			"location" : "",
+			"summary" : "Secteur Media, Euronews - Lead developer (16 mois)\\n
 • Lead technique sur la partie front-end de la refonte de l'outils de gestion de contenu des journalistes (angular v4, graphQL, équipe de 4 personnes)\\n
 • Lead technique et développement des site http://africanews.com (2 mois, 5 personnes, 2 langues) et http://euronews.com sous PHP, Symfony 2.8 et VueJS / Browserify pour le javascript (4 mois, 8 personnes, multilingue 13 langues)\\n
 \\n
@@ -71,13 +71,13 @@ Secteur Media, M6Web - Lead developer (2 ans)\\n
 \\n
 Environnements techniques : PHP 5 (Symfony2+, PhpUnit, Atoum, Behat), Javascript (VueJS, Angular2+, Browserify, MeteorJS / NodeJS), Mysql, Xml/Xsd, Moteur de recherche Sphinx, Linux\\n"
 		}, {
-			position : "Chef de projet technique",
-			company : "PEAKS IT",
-			logo : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
-			startDate : "mars 2011",
-			endDate : "mars 2012",
-			location : "Lyon",
-			summary : "Secteur Marketing, Infolegale - Chef de projet technique \\n
+			"position" : "Chef de projet technique",
+			"company" : "PEAKS IT",
+			"logo" : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgeAAAAJDk1OTc0M2ZjLTUyMTgtNDhiZC1iYWQ1LTFiYWZlNjMyYjkxNg.png",
+			"startDate" : "mars 2011",
+			"endDate" : "mars 2012",
+			"location" : "Lyon",
+			"summary" : "Secteur Marketing, Infolegale - Chef de projet technique \\n
 • Conception d'une usine à web-services \\n
 • Développement des web-services REST niveau 1 \\n
 • Rédaction des manuels utilisateurs (pour les clients) \\n
@@ -86,13 +86,13 @@ Environnements techniques : PHP 5 (Symfony2+, PhpUnit, Atoum, Behat), Javascript
 \\n
 Environnements techniques : PHP 5 (Zend framework, Symfony2, PhpUnit, Behat), Javascript (KendoUI), Mysql, Xml/Xsd, Moteur de recherche Sphinx, Linux\\n"
 		}, {
-			position : "Consultant",
-			company : "Astek",
-			logo : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/3/000/07c/20d/2be69a4.png",
-			startDate : "mars 2006",
-			endDate : "janvier 2011",
-			location : "Lyon",
-			summary : "Secteur Telecom, TMA/forfait (6 mois)\\n
+			"position" : "Consultant",
+			"company" : "Astek",
+			"logo" : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/3/000/07c/20d/2be69a4.png",
+			"startDate" : "mars 2006",
+			"endDate" : "janvier 2011",
+			"location" : "Lyon",
+			"summary" : "Secteur Telecom, TMA/forfait (6 mois)\\n
 • Application de gestion de commande et relation fournisseur\\n
 Environnement technique : Linux (RedHat), Java 6, scripts Ksh, Oracle, PLSQL\\n
 \\n
@@ -106,13 +106,13 @@ Secteur Telecom (3 ans)\\n
 • Industrialisation (tests fonctionnels des web services, mutualisation de code)\\n
 Environnement technique : Linux (Centos), PHP5 (Zend Framework), javascript, Postgresql, SOAP, WSDL\\n"
 		}, {
-			position : "Ingénieur d'études",
-			company : "Aston (SQLI)",
-			logo : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAk0AAAAJGM1YzQxMTIwLTQxYjYtNGM0OC1hYmIyLTZkOTM4MzFjYTlmOA.png",
-			startDate : "avril 2004",
-			endDate : "mars 2006",
-			location : "Lyon",
-			summary : "Secteur BTP et Public (1,5 ans)\\n
+			"position" : "Ingénieur d'études",
+			"company" : "Aston (SQLI)",
+			"logo" : "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAk0AAAAJGM1YzQxMTIwLTQxYjYtNGM0OC1hYmIyLTZkOTM4MzFjYTlmOA.png",
+			"startDate" : "avril 2004",
+			"endDate" : "mars 2006",
+			"location" : "Lyon",
+			"summary" : "Secteur BTP et Public (1,5 ans)\\n
 • Développement de portail avec Oracle Portal 9iAS\\n
 • Mise en place d'outils collaboratifs (Oracle Collaboration Suite)\\n
 \\n
@@ -121,197 +121,197 @@ Secteur Public (6 mois)\\n
 \\n
 Environnement technique : Oracle Application Server (9IAS et 10g), Oracle Collaboration Suite, MySQL, PHP5, xml, xHtml, plsql\\n"
 		}, {
-			position : "Développeur web",
-			company : "Zaw studio",
-			logo : null,
-			startDate : "septembre 2003",
-			endDate : "décembre 2003",
-			location : "Lyon",
-			summary : "• Développement d'un portail et de sites dynamiques (Les 3 vallées, plateforme de traduction, ...)\\n
+			"position" : "Développeur web",
+			"company" : "Zaw studio",
+			"logo" : null,
+			"startDate" : "septembre 2003",
+			"endDate" : "décembre 2003",
+			"location" : "Lyon",
+			"summary" : "• Développement d'un portail et de sites dynamiques (Les 3 vallées, plateforme de traduction, ...)\\n
 \\n
 Environnement technique : Linux, PHP4, MySQL\\n"
 		}, {
-			position : "Développeur web",
-			company : "Intradot Labs",
-			logo : null,
-			startDate : "mars 2003",
-			endDate : "juillet 2003",
-			location : "Lyon",
-			summary : "• Développement de librairie PHP (mail, cryptographie sous GPG) et d'applications web\\n
+			"position" : "Développeur web",
+			"company" : "Intradot Labs",
+			"logo" : null,
+			"startDate" : "mars 2003",
+			"endDate" : "juillet 2003",
+			"location" : "Lyon",
+			"summary" : "• Développement de librairie PHP (mail, cryptographie sous GPG) et d'applications web\\n
 \\n
 Environnement technique : Linux, PHP4, PostgreSQL\\n"
 		}, {
-			position : "Réalisateur multimédia",
-			company : "Zonejeux.com",
-			logo : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9REPFe6-FcjWdirUQC2sl76X0kPfEz_9PSVMOkg2l3rSel0o1A",
-			startDate : "février 2000",
-			endDate : "janvier 2002",
-			location : "Lyon",
-			summary : "• Développement web sur la plateforme de jeu en ligne ZonejeuX.com\\n
+			"position" : "Réalisateur multimédia",
+			"company" : "Zonejeux.com",
+			"logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9REPFe6-FcjWdirUQC2sl76X0kPfEz_9PSVMOkg2l3rSel0o1A",
+			"startDate" : "février 2000",
+			"endDate" : "janvier 2002",
+			"location" : "Lyon",
+			"summary" : "• Développement web sur la plateforme de jeu en ligne ZonejeuX.com\\n
 • Réalisation d’applications Flash\\n
 \\n
 Environnement technique : ColdFusion, Html, Flash 5\\n"
 		},
 	],
-	volunteer : [{
-			organization : "Meetup - MeteorLyon",
-			position : "Organisateur des meetups Meteor sur Lyon",
-			startDate : "novembre 2014",
-			endDate : "current",
-			highlights : [
+	"volunteer" : [{
+			"organization" : "Meetup - MeteorLyon",
+			"position" : "Organisateur des meetups Meteor sur Lyon",
+			"startDate" : "novembre 2014",
+			"endDate" : "current",
+			"highlights" : [
 				"Sciences et technologie"
 			],
-			summary : "MeteorJS est jeune, mais surtout cette techno est encore assez méconnue en France. Du coup depuis la sortie de la V1 en 2014 j'ai décidé de partager mes connaissances avec les Lyonnais.\\n
+			"summary" : "MeteorJS est jeune, mais surtout cette techno est encore assez méconnue en France. Du coup depuis la sortie de la V1 en 2014 j'ai décidé de partager mes connaissances avec les Lyonnais.\\n
 On parle de problématiques d'ergonomie lié au temps réel, de déploiement, de développement mobile. Mais toujours sur MeteorJS.\\n
 \\n
 Rejoignez-nous ici : http://meetup.com/Meteor-Lyon\\n"
 		}
 	],
-	publications : [{
-			name : "Modernisez vos applications web avec VueJS",
-			publisher : "Conférence BlendWebMix 2016",
-			releaseDate : "2 novembre 2016",
-			summary : "Lightning talk pour décomplexer les développeurs sur la modernisation de leur application web traditionnelles avec des frameworks JS modernes. VueJS est pris comme exemple notamment car nous l'avons utilisé sur un projet de nos clients.\\n
+	"publications" : [{
+			"name" : "Modernisez vos applications web avec VueJS",
+			"publisher" : "Conférence BlendWebMix 2016",
+			"releaseDate" : "2 novembre 2016",
+			"summary" : "Lightning talk pour décomplexer les développeurs sur la modernisation de leur application web traditionnelles avec des frameworks JS modernes. VueJS est pris comme exemple notamment car nous l'avons utilisé sur un projet de nos clients.\\n
 La vidéo est disponible ici https://youtu.be/3-pt-7U2pNg?list=PLXOSxCLWFrNG5ZU0yb1g-KNH1AaqvmaSs\\n",
-			contributors : []
+			"contributors" :  []
 		}, {
-			name : "Aller plus vite avec MeteorJS",
-			publisher : "Conférence BlendWebMix 2015",
-			releaseDate : "28 octobre 2015",
-			summary : "Présentation de la plateforme MeteorJs expliquant en quoi elle permet d'accélérer le développement web.\\n
+			"name" : "Aller plus vite avec MeteorJS",
+			"publisher" : "Conférence BlendWebMix 2015",
+			"releaseDate" : "28 octobre 2015",
+			"summary" : "Présentation de la plateforme MeteorJs expliquant en quoi elle permet d'accélérer le développement web.\\n
 La vidéo est disponible ici : https://www.youtube.com/watch?v=6f7d_6VgiEM\\n",
-			contributors : []
+			"contributors" :  []
 		}, {
-			name : "MeteorJS - First walk",
-			publisher : "Conférence au LyonJS",
-			releaseDate : "11 février 2014",
-			summary : "Après la présentation de Meteor, voici une conférence plus technique qui a été présenté au LyonJs.\\n
+			"name" : "MeteorJS - First walk",
+			"publisher" : "Conférence au LyonJS",
+			"releaseDate" : "11 février 2014",
+			"summary" : "Après la présentation de Meteor, voici une conférence plus technique qui a été présenté au LyonJs.\\n
 \\n
 Pour accompagner la présentation j'ai réalisé une application de vote en temps réel. L'application est hébergée sur les serveurs de meteor 'http://lyonjs.meteor.com) et le code source est disponible sur github https://github.com/Rebolon/meteor-sample-simpleVote\\n
 Chaque branche git est une étape du projet permettant de passer d'un prototype à une application complète avec authentification, sécurité, routing...\\n
 \\n
 La vidéo est disponible ici : https://youtu.be/ncLUaIDmCDk?t=1044\\n",
-			contributors : []
+			"contributors" :  []
 		}
 	],
-	languages : [{
-			language : "Français",
-			fluency : "Langue natale"
+	"languages" : [{
+			"language" : "Français",
+			"fluency" : "Langue natale"
 		}, {
-			language : "Anglais",
-			fluency : "Capacité professionnelle complète"
+			"language" : "Anglais",
+			"fluency" : "Capacité professionnelle complète"
 		}
 	],
-	skills : [{
-			name : "PHP",
-			level : "31"
+	"skills" : [{
+			"name" :  "PHP",
+			"level" :  "31"
 		}, {
-			name : "JavaScript",
-			level : "25"
+			"name" :  "JavaScript",
+			"level" :  "25"
 		}, {
-			name : "REST",
-			level : "6"
+			"name" :  "REST",
+			"level" :  "6"
 		}, {
-			name : "MySQL",
-			level : "12"
+			"name" :  "MySQL",
+			"level" :  "12"
 		}, {
-			name : "jQuery",
-			level : "11"
+			"name" :  "jQuery",
+			"level" :  "11"
 		}, {
-			name : "MeteorJs",
-			level : "8"
+			"name" :  "MeteorJs",
+			"level" :  "8"
 		}, {
-			name : "Node.js",
-			level : "8"
+			"name" :  "Node.js",
+			"level" :  "8"
 		}, {
-			name : "Programmation web",
-			level : "7"
+			"name" :  "Programmation web",
+			"level" :  "7"
 		}, {
-			name : "PostgreSQL",
-			level : "6"
+			"name" :  "PostgreSQL",
+			"level" :  "6"
 		}, {
-			name : "Symfony",
-			level : "7"
+			"name" :  "Symfony",
+			"level" :  "7"
 		}, {
-			name : "Zend Framework",
-			level : "5"
+			"name" :  "Zend Framework",
+			"level" :  "5"
 		}, {
-			name : "XML",
-			level : "5"
+			"name" :  "XML",
+			"level" :  "5"
 		}, {
-			name : "Java",
-			level : "4"
+			"name" :  "Java",
+			"level" :  "4"
 		}, {
-			name : "CSS",
-			level : "4"
+			"name" :  "CSS",
+			"level" :  "4"
 		}, {
-			name : "SOAP",
-			level : "3"
+			"name" :  "SOAP",
+			"level" :  "3"
 		},  {
-			name : "PHPUnit",
-			level : "2"
+			"name" :  "PHPUnit",
+			"level" :  "2"
 		}, {
-			name : "Web Development",
-			level : "2"
+			"name" :  "Web Development",
+			"level" :  "2"
 		}, {
-			name : "C#",
-			level : "1"
+			"name" :  "C#",
+			"level" :  "1"
 		}, {
-			name : "Oracle",
-			level : "1"
+			"name" :  "Oracle",
+			"level" :  "1"
 		}, {
-			name : "Java Enterprise Edition",
-			level : "1"
+			"name" :  "Java Enterprise Edition",
+			"level" :  "1"
 		}, {
-			name : "MongoDB",
-			level : "1"
+			"name" :  "MongoDB",
+			"level" :  "1"
 		}, {
-			name : "Ext JS",
-			level : "1"
+			"name" :  "Ext JS",
+			"level" :  "1"
 		}, {
-			name : "ecmascript 6",
-			level : "0"
+			"name" :  "ecmascript 6",
+			"level" :  "0"
 		}, {
-			name : "Angular 2",
-			level : "0"
+			"name" :  "Angular 2",
+			"level" :  "0"
 		}, {
-			name : "Mootools",
-			level : "0"
+			"name" :  "Mootools",
+			"level" :  "0"
 		}, {
-			name : "Oracle Portal",
-			level : "0"
+			"name" :  "Oracle Portal",
+			"level" :  "0"
 		}, {
-			name : "Oracle Collaboration Suite",
-			level : "0"
+			"name" :  "Oracle Collaboration Suite",
+			"level" :  "0"
 		}, {
-			name : "XML Schema",
-			level : "0"
+			"name" :  "XML Schema",
+			"level" :  "0"
 		}, {
-			name : "vuejs",
-			level : "0"
+			"name" :  "vuejs",
+			"level" :  "0"
 		}, {
-			name : "browserify",
-			level : "0"
+			"name" :  "browserify",
+			"level" :  "0"
 		}
 	],
-	education : [{
-			institution : "MediaRoanne",
-			studyType : "Euromaster TIC, Computer Science",
-			startDate : "septembre 2002",
-			endDate : "juillet 2003",
-			summary : "Formation sur le développement web (PHP, ASP, Java), le réseau et la gestion de projet. Elle inclus un stage professionnel."
+	"education" : [{
+			"institution" : "MediaRoanne",
+			"studyType" : "Euromaster TIC, Computer Science",
+			"startDate" : "septembre 2002",
+			"endDate" : "juillet 2003",
+			"summary" : "Formation sur le développement web (PHP, ASP, Java), le réseau et la gestion de projet. Elle inclus un stage professionnel."
 		}, {
-			institution : "Université de Metz",
-			studyType : "DESS, Multimedia",
-			startDate : "septembre 1999",
-			endDate : "juillet 2000",
-			summary : null
+			"institution" : "Université de Metz",
+			"studyType" : "DESS, Multimedia",
+			"startDate" : "septembre 1999",
+			"endDate" : "juillet 2000",
+			"summary" : null
 		}, {
-			institution : "IAE FRANCE - Écoles Universitaires de Management",
-			studyType : "Maîtrise, Management and Marketing",
-			startDate : "septembre 1997",
-			endDate : "juillet 1999",
-			summary : null
+			"institution" : "IAE FRANCE - Écoles Universitaires de Management",
+			"studyType" : "Maîtrise, Management and Marketing",
+			"startDate" : "septembre 1997",
+			"endDate" : "juillet 1999",
+			"summary" : null
 		}
 	]
 }
