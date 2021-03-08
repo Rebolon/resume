@@ -1,6 +1,9 @@
 # resume
 Benjamin RICHARD resumes. They are extracted / generated from linkedin with my MeteorJS application.
 
+## Deprecated
+Prefer this: https://gist.github.com/Rebolon/6aec1f99a07463053a232d8cb539ebe2 to get up to date data
+
 ## Summary
 This repo is a sample of what i can generate from a linkedin profile. I provide a software (SAAS) that 
 allows you to grab information from linkedin and save it to your own database. From that information, you
